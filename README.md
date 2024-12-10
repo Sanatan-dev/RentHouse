@@ -23,17 +23,5 @@ RentHouse System is a comprehensive web application designed for managing rental
   - [Razorpay SDK](https://razorpay.com/docs/api/)  
   - [TCPDF](https://tcpdf.org/)  
 
----
-
-## 📂 Directory Structure  
-
-```plaintext
-RentHouse/
-├── assets/        # Static assets like CSS, JavaScript, images  
-├── includes/      # Reusable PHP files and configurations  
-├── templates/     # HTML templates for views  
-├── vendor/        # Composer dependencies  
-├── database.sql   # Database schema  
-├── index.php      # Application entry point  
-└── README.md      # Documentation (this file)  
+--- 
 
